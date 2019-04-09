@@ -7,5 +7,5 @@
 [Day 3：多元线性回归](https://github.com/jiiiiiaaaa/100-days-of-ML-codes/blob/master/code/Day%203_Multiple%20Linear%20Regression.ipynb)   
 [Day 4：逻辑回归](https://github.com/jiiiiiaaaa/100-days-of-ML-codes/blob/master/code/Day%204_Logistic%20Regression.ipynb)  
 [Day 5：深入了解逻辑回归](https://github.com/jiiiiiaaaa/100-days-of-ML-codes/blob/master/code/Day%204_Logistic%20Regression.ipynb)  
-[Day 6：逻辑回归实现](https://github.com/jiiiiiaaaa/100-days-of-ML-codes/blob/master/code/Day%204_Logistic%20Regression.ipynb)  
+[Day 6：逻辑回归实现](https://github.com/jiiiiiaaaa/100-days-of-ML-codes/blob/master/code/Day%206_Implementing%20Logistic%20Regression.ipynb)  
 [Day 7：KNN](https://github.com/jiiiiiaaaa/100-days-of-ML-codes/blob/master/code/Day%204_Logistic%20Regression.ipynb)  
